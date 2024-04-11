@@ -2,15 +2,21 @@ body{
     background-color: black;
 }
 p{text-align: center;
-color: white;
+color: black;
 }
 h1{text-align: center;
-    color: white;}
+    color: black;}
 h2{text-align: center;
-    color: white;}
+    color: black;}
 
 #banner{
-    width:100%;
-    
+    width:50%;
 }
 
+.container{
+    text-align:center
+}
+
+.principal{
+    background-color: white;
+}
