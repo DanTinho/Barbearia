@@ -2,15 +2,15 @@ body{
     background-color: black;
 }
 p{text-align: center;
-color: black;
+color: white;
 }
 h1{text-align: center;
-    color: black;}
+    color: white;}
 h2{text-align: center;
-    color: black;}
+    color: white;}
 
 #banner{
-    width:50%;
+    width:75%;
 }
 
 .container{
@@ -18,5 +18,5 @@ h2{text-align: center;
 }
 
 .principal{
-    background-color: white;
+    background-color: black;
 }
