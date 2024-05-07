@@ -1,5 +1,5 @@
 body{
-    background-color: black;
+    background-color: rgb(51, 44, 44);
 }
 p{text-align: center;
 color: white;
@@ -18,5 +18,5 @@ h2{text-align: center;
 }
 
 .principal{
-    background-color: black;
+    background-color: rgb(51, 44, 44);
 }
