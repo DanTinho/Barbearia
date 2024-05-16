@@ -1,5 +1,5 @@
 header h1 img{
-    width: 220px;
+    width: 250px;
 }
 
 header {
@@ -22,7 +22,7 @@ nav a {
 
 .caixa {
     position: relative;
-    width: 940px;
+    width: 1100px;
     margin: 0 auto;
 }
 
