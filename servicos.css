@@ -86,10 +86,22 @@ nav a:hover {
     margin-top: 10px;
 }
 
-.creditos {
+footer {
     text-align: center;
     background-color: black;
     color: white;
+    padding: 40px 0;
+
+}
+
+footer img {
+    width: 250px;
+}
+
+.copyright {
+    color: white;
+    font-size: 13px;
+    margin: 20px 0;
 }
 
 
