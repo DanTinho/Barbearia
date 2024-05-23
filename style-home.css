@@ -1,0 +1,44 @@
+p{text-align: center;
+color: white;
+}
+h1{text-align: center;
+    color: white;}
+h2{text-align: center;
+    color: white;}
+
+body{
+    
+}
+
+header{
+    background-color: black;
+}
+
+main{
+    background-color: black;
+}
+
+footer{
+    background-color: black;
+}
+
+#banner{
+    width:75%;
+}
+
+.container{
+    text-align:center
+}
+
+.principal{
+    background-color: black;
+}
+
+.creditos{
+    color: white;
+}
+
+.fontelista{
+    color: white;
+}
+
