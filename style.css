@@ -144,6 +144,44 @@ form label, form p {
 }
 
 .enviar:hover {
-    background-color: red;
-    transform: scale(1.2);
+    background-color: gray;
+    transform: scale(1.1);
+    color: black;
+}
+
+table {
+    margin: 20px 0 40px;
+}
+
+thead {
+    background-color: black;
+    color: white;
+    font-weight: bold;
+}
+
+td, th {
+    border: 1px solid black;
+    padding: 10px 20px;
+}
+
+/* css da página principal */
+
+#banner {
+    width: 50%;
+    margin: 0 470px;
+}
+
+.principal {
+    text-align: center;
+    font-size: 1.5em;
+    background-color:black;
+    color: white;
+}
+
+.principal h1 {
+    font-weight: bold;
+}
+
+.container {
+    background-color: black;
 }
