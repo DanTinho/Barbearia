@@ -185,3 +185,44 @@ td, th {
 .container {
     background-color: white;
 }
+
+.creditosfinal {
+    background-color: black;
+}
+
+.creditosfinal img {
+    width: 940px;
+    margin: 0 470px;
+}
+
+.redessla {
+    background-color: black;
+}
+.redessla img {
+    width: 30px;
+    padding: 0 20px;
+}
+
+.redessla ul {
+    position: relative;
+    bottom: 20px;
+    left: 60px;
+}
+
+.redessla a {
+    text-transform: uppercase;
+    color: white;
+    font-weight: bold;
+    font-size: 15px;
+    text-decoration: none;
+}
+
+.redessla a:hover {
+    color: red;
+    text-decoration: underline;
+}
+
+.redessla li {
+    display: inline;
+    margin: 0 305px 0 -15px;
+}
