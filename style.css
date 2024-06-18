@@ -174,8 +174,8 @@ td, th {
 .principal {
     text-align: center;
     font-size: 1.5em;
-    background-color:black;
-    color: white;
+    background-color:white;
+    color: black;
 }
 
 .principal h1 {
@@ -183,5 +183,5 @@ td, th {
 }
 
 .container {
-    background-color: black;
+    background-color: white;
 }
