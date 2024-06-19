@@ -206,7 +206,7 @@ td, th {
 .redessla ul {
     position: relative;
     bottom: 20px;
-    left: 60px;
+    left: 190px;
 }
 
 .redessla a {
@@ -224,5 +224,9 @@ td, th {
 
 .redessla li {
     display: inline;
-    margin: 0 305px 0 -15px;
+    margin: 0 481px 0 -15px;
+}
+
+.mapa iframe {
+    width: 940px;
 }
