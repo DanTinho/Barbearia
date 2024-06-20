@@ -184,6 +184,7 @@ td, th {
 
 .container {
     background-color: white;
+    margin-bottom: -320px;
 }
 
 .creditosfinal {
@@ -237,7 +238,5 @@ td, th {
     margin: 2px;
 }
 
-.container {
-    margin-bottom: -320px;
-}
+
 
