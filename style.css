@@ -227,3 +227,17 @@ td, th {
     margin: 0 481px 0 -15px;
 }
 
+.mapa {
+    position: relative;
+    bottom: 320px;
+    left: 1250px;
+}
+
+.video {
+    margin: 2px;
+}
+
+.container {
+    margin-bottom: -320px;
+}
+
